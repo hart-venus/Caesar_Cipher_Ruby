@@ -1,7 +1,4 @@
 
-
-
-
 def caesar_cipher(string, shift)
     alphabet = ('a'..'z').to_a
     new_string = ''
